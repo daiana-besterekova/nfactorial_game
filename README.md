@@ -2,9 +2,9 @@
 
 ## How to use? 
 
-1. Ensure you have the necessary packages installed by running pip install pandas prettytable in your terminal.
+1. Ensure you have the necessary packages installed by running `pip install pandas prettytable` in your terminal.
 2. Modify the directory path on line 4 to the location of your dataset file.
-3. Run the code using python filename.py in your terminal.
+3. Run the code using `python filename.py` in your terminal.
 4. Follow the prompt to enter the desired length of the name.
 5. Wait for the program to generate and display the tables and bigrams.
 
